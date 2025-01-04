@@ -1,5 +1,3 @@
-Here’s a basic `README.md` for your Deliveroo API automation app:
-
 ---
 
 # Deliveroo Automated Ordering System
