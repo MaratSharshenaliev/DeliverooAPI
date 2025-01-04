@@ -1,0 +1,5 @@
+mutation clearBasket($options: BasketOptionsInput!) {
+    clear_basket(options: $options) {
+        success
+    }
+}

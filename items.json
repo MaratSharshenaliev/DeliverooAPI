@@ -1,0 +1,18 @@
+[
+  {
+    "menu_item_drn_id": "e5a6bcc2-4123-466f-a640-799ca7e58a8a",
+    "quantity": 1,
+    "modifier_groups": [
+      {
+        "legacy_id": "2548439696",
+        "items": [
+          {
+            "legacy_id": "2542171240",
+            "quantity": 1,
+            "modifier_groups": []
+          }
+        ]
+      }
+    ]
+  }
+]
